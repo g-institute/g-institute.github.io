@@ -1,6 +1,6 @@
-# Garzón Institute — editorial site
+# Garzon Institute — editorial site
 
-This is a static, multi-page website for Garzón Institute Corporation (IL). It is intentionally code-first so the visual language can stay cinematic, photography-led, responsive, and independent of Google Sites’ layout constraints.
+This is a static, multi-page website for Garzon Institute Corporation (IL). It is intentionally code-first so the visual language can stay cinematic, photography-led, responsive, and independent of Google Sites’ layout constraints.
 
 ## Pages
 
@@ -26,4 +26,4 @@ Then open `http://localhost:4173`.
 
 The site can be published from the repository root using GitHub Pages. Keep the repository limited to public website assets. The ignored workbook and original Drive image downloads are source material, not public site content.
 
-The Water-Y machine clip is included as a silent H.264 MP4 at `assets/video/water-y-machine-silent.mp4`, with the original QuickTime file retained as a fallback.
+The Water-Y machine clip is included as an H.264 MP4 at `assets/video/water-y-machine.mp4`, with the original QuickTime file retained as a fallback.
