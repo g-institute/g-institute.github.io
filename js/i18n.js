@@ -37,7 +37,7 @@ window.GARZON_I18N = {
     'SUSI Alumni Program support for Co-Emprende.': 'Apoyo del programa SUSI Alumni para Co-Emprende.'
   },
   home: {
-    'Garzon Institute Corporation · Ecuador / Illinois': 'Garzon Institute Corporation · Ecuador / Illinois',
+    'Garzon Institute · Ecuador / Illinois': 'Garzon Institute · Ecuador / Illinois',
     'Science,': 'Ciencia,',
     'water &': 'agua y',
     'communities.': 'comunidades.',

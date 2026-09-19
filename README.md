@@ -1,6 +1,6 @@
 # Garzon Institute — editorial site
 
-This is a static, multi-page website for Garzon Institute Corporation (IL). It is intentionally code-first so the visual language can stay cinematic, photography-led, responsive, and independent of Google Sites’ layout constraints.
+This is a static, multi-page website for Garzon Institute, a nonprofit organization. It is intentionally code-first so the visual language can stay cinematic, photography-led, responsive, and independent of Google Sites’ layout constraints.
 
 ## Pages
 

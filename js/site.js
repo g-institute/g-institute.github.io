@@ -70,7 +70,7 @@ const footerMarkup = `
       </div>
     </div>
     <div class="container footer__bottom">
-      <span>© <span data-year></span> Garzon Institute Corporation (IL)</span>
+      <span>© <span data-year></span> Garzon Institute</span>
       <span>Research · Education · Conservation · Community</span>
     </div>
   </footer>`;
