@@ -2,7 +2,7 @@ const headerMarkup = `
   <header class="site-header" data-site-header>
     <div class="header-inner">
       <a class="brand-lockup" href="index.html" aria-label="Garzon Institute home">
-        <img src="assets/brand/garzon-logo.png" alt="Garzon Institute">
+        <img src="assets/brand/garzon-logo-cutout.png" alt="Garzon Institute">
       </a>
       <nav class="header-links" aria-label="Primary navigation">
         <a href="about.html" data-nav="about" data-i18n-key="nav.about">About</a>
@@ -34,7 +34,7 @@ const footerMarkup = `
     <div class="container footer__top">
       <div>
         <a class="footer-logo-link" href="index.html" aria-label="Garzon Institute home">
-          <img class="footer-logo" src="assets/brand/garzon-logo.png" alt="Garzon Institute" loading="lazy">
+          <img class="footer-logo" src="assets/brand/garzon-logo-cutout.png" alt="Garzon Institute" loading="lazy">
         </a>
         <p class="footer__mission">Science, water, and community-led action for a more resilient future—from the Ecuadorian Amazon to every place where knowledge can become change.</p>
       </div>
@@ -50,13 +50,23 @@ const footerMarkup = `
       </div>
       <div>
         <div class="footer__heading" data-i18n-key="footer.stay">Stay close</div>
-        <nav class="footer__links" aria-label="Social links">
-          <a href="https://www.instagram.com/rikunacenter/" target="_blank" rel="noopener">Instagram / Rikuna</a>
-          <a href="https://www.facebook.com/CentroRikuna" target="_blank" rel="noopener">Facebook / Rikuna</a>
-          <a href="https://www.instagram.com/_water_y/" target="_blank" rel="noopener">Instagram / Water-Y</a>
-          <a href="mailto:garzondomenica@gmail.com">garzondomenica@gmail.com</a>
-          <a href="https://buymeacoffee.com/rikuna_project" target="_blank" rel="noopener" data-i18n-key="footer.support">Support the work ↗</a>
-        </nav>
+        <div class="footer__social-groups">
+          <div>
+            <div class="footer__heading">Rikuna</div>
+            <nav class="footer__links" aria-label="Rikuna social links">
+              <a href="https://www.instagram.com/rikunacenter/" target="_blank" rel="noopener">Instagram ↗</a>
+              <a href="https://www.facebook.com/CentroRikuna" target="_blank" rel="noopener">Facebook ↗</a>
+            </nav>
+          </div>
+          <div>
+            <div class="footer__heading">Water-Y</div>
+            <nav class="footer__links" aria-label="Water-Y social links">
+              <a href="https://www.instagram.com/_water_y/" target="_blank" rel="noopener">Instagram ↗</a>
+              <a href="https://www.facebook.com/waterYoficial" target="_blank" rel="noopener">Facebook ↗</a>
+              <a href="https://x.com/_Water_Y" target="_blank" rel="noopener">X ↗</a>
+            </nav>
+          </div>
+        </div>
       </div>
     </div>
     <div class="container footer__bottom">
