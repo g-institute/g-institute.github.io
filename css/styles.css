@@ -104,6 +104,7 @@ h4 { font-size: 1.15rem; letter-spacing: -.02em; }
 
 .page-intro { padding: 10rem 0 8rem; }
 .page-intro__inner { width: min(780px, 88vw); margin: 0 auto; text-align: center; }
+.page-intro__inner h2 { overflow-wrap: anywhere; hyphens: auto; }
 .page-intro__inner p { margin-top: 2rem; font-size: clamp(1.2rem, 2vw, 1.7rem); line-height: 1.45; color: var(--ink-soft); }
 .eyebrow { margin-bottom: 1.6rem; color: var(--forest-2); }
 .eyebrow--light { color: var(--water); }
@@ -327,7 +328,6 @@ h4 { font-size: 1.15rem; letter-spacing: -.02em; }
   h1 { font-size: clamp(2.8rem, 14.5vw, 5.6rem); }
   h2 { font-size: clamp(2.35rem, 12vw, 4.6rem); }
   .chapter__copy h2 { font-size: clamp(2.35rem, min(12vw, 15cqi), 4.6rem); }
-  .quote p { font-size: clamp(2.1rem, 9vw, 2.5rem); }
   .hero { min-height: 86vh; }
   .hero--short { min-height: 72vh; }
   .hero__content { padding-top: 8rem; padding-bottom: 4rem; }
@@ -365,7 +365,6 @@ h4 { font-size: 1.15rem; letter-spacing: -.02em; }
   h1 { font-size: 2.8rem; }
   h2, .chapter__copy h2 { font-size: 2.35rem; }
   .manifesto__text { font-size: 2.5rem; }
-  .quote p { font-size: 2.1rem; }
 }
 
 @media (prefers-reduced-motion: reduce) {
