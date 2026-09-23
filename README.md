@@ -26,4 +26,6 @@ Then open `http://localhost:4173`.
 
 The site can be published from the repository root using GitHub Pages. Keep the repository limited to public website assets. The ignored workbook and original Drive image downloads are source material, not public site content.
 
-The Water-Y machine clip is included as an H.264 MP4 at `assets/video/water-y-machine.mp4`, with the original QuickTime file retained as a fallback.
+The Water-Y machine clip is included as an H.264 MP4 at `assets/video/water-y-machine.mp4`.
+
+Image sources and licenses for the RIKUNA rainforest photograph and mosasaur illustration are recorded in [assets/images/CREDITS.md](assets/images/CREDITS.md), with visible attribution on the page.

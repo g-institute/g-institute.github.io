@@ -119,6 +119,9 @@ window.GARZON_I18N = {
     'See the full collaborator list': 'Ver la lista completa de aliados'
   },
   rikuna: {
+    'Cuyabeno, Ecuador · Photo:': 'Cuyabeno, Ecuador · Foto:',
+    'Resized and cropped for display.': 'Redimensionada y recortada para su visualización.',
+    'Mosasaurus · Artistic reconstruction, not the recovered fossil.': 'Mosasaurus · Reconstrucción artística, no el fósil recuperado.',
     '01 · Amazon / Research / Community': '01 · Amazonía / Investigación / Comunidad',
     'A Kichwa word meaning “to observe.” A field-based initiative where scientific curiosity, local knowledge, and care for place move together.': 'Una palabra kichwa que significa “observar”. Una iniciativa de campo donde la curiosidad científica, el conocimiento local y el cuidado del territorio avanzan juntos.',
     'Why Rikuna exists': 'Por qué existe Rikuna',
@@ -157,7 +160,7 @@ window.GARZON_I18N = {
     'Young scientists at work.': 'Jóvenes científicos en acción.',
     'Knowledge grows through exchange.': 'El conocimiento crece con el intercambio.',
     'From observation to shared action.': 'De la observación a la acción compartida.',
-    '06 · Keep following': '06 · Sigue de cerca',
+    '05 · Keep following': '05 · Sigue de cerca',
     'Rikuna is still becoming.': 'Rikuna sigue creciendo.',
     'Every expedition, classroom, and conversation adds another layer to a living archive of science, place, and community knowledge.': 'Cada expedición, aula y conversación agrega una capa a un archivo vivo de ciencia, territorio y conocimiento comunitario.',
     'Read the Rikuna stories': 'Leer las historias de Rikuna'
@@ -257,7 +260,7 @@ window.GARZON_I18N = {
     'Ideas become stronger in company.': 'Las ideas se fortalecen en compañía.',
     'Connection across generations.': 'Conexión entre generaciones.',
     'Local leadership, wider horizons.': 'Liderazgo local, horizontes más amplios.',
-    '06 · Keep building': '06 · Seguir construyendo',
+    '05 · Keep building': '05 · Seguir construyendo',
     'Support the next community-led idea.': 'Apoya la próxima idea liderada por la comunidad.',
     'Co-Emprende grows through partners who believe that sustainable development is strongest when communities lead the design.': 'Co-Emprende crece con aliados que creen que el desarrollo sostenible es más fuerte cuando las comunidades lideran el diseño.'
   },
